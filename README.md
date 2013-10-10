@@ -1,4 +1,4 @@
-howtousegithub
+如何使用GitHub
 ==============
 
 ##Git,Github,SVN简介
@@ -54,14 +54,4 @@ Markdown : 是一种轻量级标记语言
 Goagent：翻墙
 
 如何安装：https://code.google.com/p/goagent/
-
-
-##代码示例
-
-```javascript
-  var rain = {
-    name  : "CssRain"
-  }
-```
-
 
